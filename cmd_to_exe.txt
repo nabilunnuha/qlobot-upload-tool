@@ -1,0 +1,5 @@
+pip install pyinstaller
+
+pyinstaller --onefile --noconfirm --console --clean shopee_upload.py
+pyinstaller --onefile --noconfirm --console --clean tokopedia_upload.py
+pyinstaller --onefile --noconfirm --console --clean refresh_via_delete.py

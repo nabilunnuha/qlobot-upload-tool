@@ -1,0 +1,41 @@
+{
+  "random_delay_per_akun": [
+    15,
+    25
+  ],
+  "collection_id": null,
+  "direct_upload_target": "tokopedia",
+  "data_upload": "selected",
+  "data_upload_start": null,
+  "data_upload_end": null,
+  "upload_mode": "human",
+  "browser_mode": "request",
+  "delay_start": 120,
+  "delay_end": 210,
+  "data_upload_checked": [],
+  "watermark_thumbnail": false,
+  "json_file": "",
+  "failed_pause": false,
+  "skip_empty_stock": true,
+  "direct_mode": "default",
+  "categories": [],
+  "etalase_name": {},
+  "etalase": "",
+  "use_category_mapping": true,
+  "use_category_recomendation": true,
+  "tersedia": 1,
+  "min_order": 1,
+  "stock_start": 10,
+  "stock_end": 20,
+  "min_order_follow": true,
+  "wajib_asuransi": false,
+  "preorder": false,
+  "preorder_days": 7,
+  "mass_variant": false,
+  "accounts": [
+    {
+      "username": null,
+      "password": null
+    }
+  ]
+}

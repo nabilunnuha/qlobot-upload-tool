@@ -1,0 +1,35 @@
+{
+  "random_delay_per_akun": [
+    15,
+    25
+  ],
+  "collection_id": null,
+  "direct_upload_target": "shopee",
+  "data_upload": "selected",
+  "data_upload_start": null,
+  "data_upload_end": null,
+  "upload_mode": "human",
+  "browser_mode": "request",
+  "delay_start": 120,
+  "delay_end": 210,
+  "data_upload_checked": [],
+  "watermark_thumbnail": false,
+  "json_file": "",
+  "failed_pause": false,
+  "skip_empty_stock": true,
+  "direct_mode": "default",
+  "categories": [],
+  "category_attributes": [],
+  "use_category_mapping": true,
+  "use_category_recomendation": true,
+  "autofill_category_fields": true,
+  "stock_start": 10,
+  "stock_end": 20,
+  "days_to_ship": 2,
+  "accounts": [
+    {
+      "username": null,
+      "password": null
+    }
+  ]
+}
